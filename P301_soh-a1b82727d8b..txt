@@ -1,0 +1,1213 @@
+Summary
+		Operating System
+			Windows XP Professional 32-bit SP2
+		CPU
+			Intel Pentium G2010 @ 2.80GHz	30 °C
+			Ivy Bridge 22nm Technology
+		RAM
+			2.00GB Single-Channel DDR3 @ 665MHz (9-9-9-24)
+		Motherboard
+			Gigabyte Technology Co. Ltd. H61M-DS2 4.0 (Intel Pentium CPU G2010 @ 2.80GHz)	28 °C
+		Graphics
+			ASUS VH162 (1366x768@59Hz)
+			ASUS VH162 (1366x768@59Hz)
+			Intel HD Graphics (Gigabyte)
+		Storage
+			465GB Western Digital WDC WD5000AAKX-00ERMA0 (SATA )	30 °C
+			3GB Disk drive (USB )
+		Optical Drives
+			ATAPI iHAS122 W
+		Audio
+			Realtek High Definition Audio
+Operating System
+	Windows XP Professional 32-bit SP2
+	Computer type: Desktop
+	Installation Date: 6/23/2016 5:24:37 AM
+	Serial Number: RKQ2P-RJGP3-CBYPQ-D2QHR-79X2C
+		Windows Security Center
+			Firewall	Enabled
+		Windows Update
+			AutoUpdate	Download Automatically and Install at Set Scheduled time
+			Schedule Frequency	Every Day
+			Schedule Time	3:00 AM
+		Antivirus
+			Antivirus	Enabled
+			Company Name	AVAST Software
+			Display Name	avast! Antivirus
+			Product Version	11.2.2262
+			Virus Signature Database	Up to date
+		.NET Frameworks installed
+			v1.1
+		Internet Explorer
+			Version	6.0.2900.2180
+		Environment Variables
+			USERPROFILE	C:\Documents and Settings\slu-soh
+			SystemRoot	C:\WINDOWS
+				User Variables
+					TEMP	C:\Documents and Settings\slu-soh\Local Settings\Temp
+					TMP	C:\Documents and Settings\slu-soh\Local Settings\Temp
+				Machine Variables
+					ComSpec	C:\WINDOWS\system32\cmd.exe
+					FP_NO_HOST_CHECK	NO
+					NUMBER_OF_PROCESSORS	2
+					OS	Windows_NT
+					Path	C:\WINDOWS\system32
+					C:\WINDOWS
+					C:\WINDOWS\System32\Wbem
+					C:\ORANT\BIN
+					PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+					PROCESSOR_ARCHITECTURE	x86
+					PROCESSOR_IDENTIFIER	x86 Family 6 Model 58 Stepping 9, GenuineIntel
+					PROCESSOR_LEVEL	6
+					PROCESSOR_REVISION	3a09
+					TEMP	C:\WINDOWS\TEMP
+					TMP	C:\WINDOWS\TEMP
+					windir	C:\WINDOWS
+		Power Profile
+			Active power scheme	Home/Office Desk
+			Hibernation	Disabled
+			Turn Off Monitor after: (On AC Power)	Never
+			Turn Off Hard Disk after: (On AC Power)	Never
+			Suspend after: (On AC Power)	Never
+			Screen saver	Enabled
+		Uptime
+				Current Session
+					Current Time	5/24/2018 10:20:58 AM
+					Current Uptime	604 sec (0 d, 00 h, 10 m, 04 s)
+					Last Boot Time	5/24/2018 10:10:54 AM
+		Services
+			Running	Application Layer Gateway Service
+			Running	Automatic Updates
+			Running	Avast Antivirus
+			Running	Background Intelligent Transfer Service
+			Running	Client Service for NetWare
+			Running	COM+ Event System
+			Running	Cryptographic Services
+			Running	DCOM Server Process Launcher
+			Running	DHCP Client
+			Running	Distributed Link Tracking Client
+			Running	DNS Client
+			Running	Error Reporting Service
+			Running	Event Log
+			Running	Fast User Switching Compatibility
+			Running	Help and Support
+			Running	HID Input Service
+			Running	IPSEC Services
+			Running	Logical Disk Manager
+			Running	Network Connections
+			Running	Network Location Awareness (NLA)
+			Running	Plug and Play
+			Running	Print Spooler
+			Running	Protected Storage
+			Running	Remote Access Connection Manager
+			Running	Remote Procedure Call (RPC)
+			Running	Remote Registry
+			Running	Secondary Logon
+			Running	Security Accounts Manager
+			Running	Security Center
+			Running	Server
+			Running	Shell Hardware Detection
+			Running	SSDP Discovery Service
+			Running	System Event Notification
+			Running	System Restore Service
+			Running	Task Scheduler
+			Running	TCP/IP NetBIOS Helper
+			Running	Telephony
+			Running	Terminal Services
+			Running	Themes
+			Running	Windows Audio
+			Running	Windows Driver Foundation - User-mode Driver Framework
+			Running	Windows Firewall/Internet Connection Sharing (ICS)
+			Running	Windows Image Acquisition (WIA)
+			Running	Windows Management Instrumentation
+			Running	Windows Time
+			Running	Wireless Zero Configuration
+			Running	Workstation
+			Stopped	Adobe Flash Player Update Service
+			Stopped	Alerter
+			Stopped	Application Management
+			Stopped	ASP.NET State Service
+			Stopped	ClipBook
+			Stopped	COM+ System Application
+			Stopped	Computer Browser
+			Stopped	Distributed Transaction Coordinator
+			Stopped	HTTP SSL
+			Stopped	IMAPI CD-Burning COM Service
+			Stopped	Indexing Service
+			Stopped	Intel Management and Security Application Local Management Service
+			Stopped	Logical Disk Manager Administrative Service
+			Stopped	Messenger
+			Stopped	Microsoft Office Diagnostics Service
+			Stopped	Microsoft Office Groove Audit Service
+			Stopped	Mozilla Maintenance Service
+			Stopped	MS Software Shadow Copy Provider
+			Stopped	Net Logon
+			Stopped	NetMeeting Remote Desktop Sharing
+			Stopped	Network DDE
+			Stopped	Network DDE DSDM
+			Stopped	Network Provisioning Service
+			Stopped	NT LM Security Support Provider
+			Stopped	Office Source Engine
+			Stopped	Performance Logs and Alerts
+			Stopped	Portable Media Serial Number Service
+			Stopped	QoS RSVP
+			Stopped	Remote Access Auto Connection Manager
+			Stopped	Remote Desktop Help Session Manager
+			Stopped	Remote Procedure Call (RPC) Locator
+			Stopped	Removable Storage
+			Stopped	Routing and Remote Access
+			Stopped	Smart Card
+			Stopped	Telnet
+			Stopped	Uninterruptible Power Supply
+			Stopped	Universal Plug and Play Device Host
+			Stopped	Volume Shadow Copy
+			Stop pending	WebClient
+			Stopped	Windows Installer
+			Stopped	Windows Management Instrumentation Driver Extensions
+			Stopped	WMI Performance Adapter
+		TimeZone
+			TimeZone	GMT +8:00 Hours
+			Language	English (United States)
+			Location	United States
+			Format	English (United States)
+			Currency	$
+			Date Format	M/d/yyyy
+			Time Format	h:mm:ss tt
+		Scheduler
+			5/24/2018 11:14 AM;Every 1 hour(s) from 12:14 AM for 24 hour(s) every day, starting 1/1/2000	Adobe Flash Player Updater
+			5/24/2018 4:47 PM;Every 12 hour(s) from 4:47 AM for 24 hour(s) every day, starting 8/15/2017	avast! Emergency Update
+			5/24/2018 4:48 PM;At 4:48 PM every day, starting 8/14/2017	SafeZone scheduled Autoupdate 1475343992
+		System Folders
+			Application Data	C:\Documents and Settings\All Users\Application Data
+			Cookies	C:\Documents and Settings\slu-soh\Cookies
+			Desktop	C:\Documents and Settings\slu-soh\Desktop
+			Documents	C:\Documents and Settings\All Users\Documents
+			Fonts	C:\WINDOWS\Fonts
+			Global Favorites	C:\Documents and Settings\All Users\Favorites
+			Internet History	C:\Documents and Settings\slu-soh\Local Settings\History
+			Local Application Data	C:\Documents and Settings\slu-soh\Local Settings\Application Data
+			Music	C:\Documents and Settings\All Users\Documents\My Music
+			Path for burning CD	C:\Documents and Settings\slu-soh\Local Settings\Application Data\Microsoft\CD Burning
+			Physical Desktop	C:\Documents and Settings\slu-soh\Desktop
+			Pictures	C:\Documents and Settings\All Users\Documents\My Pictures
+			Program Files	C:\Program Files
+			Public Desktop	C:\Documents and Settings\All Users\Desktop
+			Start Menu	C:\Documents and Settings\All Users\Start Menu
+			Start Menu Programs	C:\Documents and Settings\All Users\Start Menu\Programs
+			Startup	C:\Documents and Settings\All Users\Start Menu\Programs\Startup
+			Templates	C:\Documents and Settings\All Users\Templates
+			Temporary Internet Files	C:\Documents and Settings\slu-soh\Local Settings\Temporary Internet Files
+			User Favorites	C:\Documents and Settings\slu-soh\Favorites
+			Videos	C:\Documents and Settings\All Users\Documents\My Videos
+			Windows Directory	C:\WINDOWS
+			Windows/System	C:\WINDOWS\system32
+		Process List
+				alg.exe
+					Process ID	3500
+					Path	C:\WINDOWS\System32\alg.exe
+					Memory Usage	3.17 MB
+					Peak Memory Usage	3.17 MB
+				AvastEmUpdate.exe
+					Process ID	1324
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Program Files\AVAST Software\Avast\AvastEmUpdate.exe
+					Memory Usage	6.39 MB
+					Peak Memory Usage	6.40 MB
+				AvastSvc.exe
+					Process ID	1520
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Program Files\AVAST Software\Avast\AvastSvc.exe
+					Memory Usage	42 MB
+					Peak Memory Usage	111 MB
+				AvastUI.exe
+					Process ID	1768
+					User	slu-soh
+					Domain	SOH-A1B82727D8B
+					Path	C:\Program Files\AVAST Software\Avast\AvastUI.exe
+					Memory Usage	14 MB
+					Peak Memory Usage	24 MB
+				csrss.exe
+					Process ID	736
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	\??\C:\WINDOWS\system32\csrss.exe
+					Memory Usage	3.68 MB
+					Peak Memory Usage	5.93 MB
+				ctfmon.exe
+					Process ID	1004
+					User	slu-soh
+					Domain	SOH-A1B82727D8B
+					Path	C:\WINDOWS\system32\ctfmon.exe
+					Memory Usage	3.09 MB
+					Peak Memory Usage	3.09 MB
+				explorer.exe
+					Process ID	1548
+					User	slu-soh
+					Domain	SOH-A1B82727D8B
+					Path	C:\WINDOWS\Explorer.EXE
+					Memory Usage	29 MB
+					Peak Memory Usage	30 MB
+				GrooveMonitor.exe
+					Process ID	1756
+					User	slu-soh
+					Domain	SOH-A1B82727D8B
+					Path	C:\Program Files\Microsoft Office\Office12\GrooveMonitor.exe
+					Memory Usage	6.06 MB
+					Peak Memory Usage	6.06 MB
+				hkcmd.exe
+					Process ID	868
+					User	slu-soh
+					Domain	SOH-A1B82727D8B
+					Path	C:\WINDOWS\system32\hkcmd.exe
+					Memory Usage	3.11 MB
+					Peak Memory Usage	3.11 MB
+				HP1006MC.EXE
+					Process ID	2912
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\WINDOWS\System32\spool\DRIVERS\W32X86\3\HP1006MC.EXE
+					Memory Usage	2.37 MB
+					Peak Memory Usage	2.37 MB
+				igfxpers.exe
+					Process ID	1740
+					User	slu-soh
+					Domain	SOH-A1B82727D8B
+					Path	C:\WINDOWS\system32\igfxpers.exe
+					Memory Usage	2.91 MB
+					Peak Memory Usage	2.91 MB
+				igfxtray.exe
+					Process ID	1328
+					User	slu-soh
+					Domain	SOH-A1B82727D8B
+					Path	C:\WINDOWS\system32\igfxtray.exe
+					Memory Usage	3.18 MB
+					Peak Memory Usage	3.18 MB
+				lsass.exe
+					Process ID	816
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\WINDOWS\system32\lsass.exe
+					Memory Usage	5.56 MB
+					Peak Memory Usage	5.58 MB
+				ONENOTEM.EXE
+					Process ID	2796
+					User	slu-soh
+					Domain	SOH-A1B82727D8B
+					Path	C:\Program Files\Microsoft Office\Office12\ONENOTEM.EXE
+					Memory Usage	308 KB
+					Peak Memory Usage	2.07 MB
+				RTHDCPL.EXE
+					Process ID	1748
+					User	slu-soh
+					Domain	SOH-A1B82727D8B
+					Path	C:\WINDOWS\RTHDCPL.EXE
+					Memory Usage	22 MB
+					Peak Memory Usage	22 MB
+				services.exe
+					Process ID	804
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\WINDOWS\system32\services.exe
+					Memory Usage	8.63 MB
+					Peak Memory Usage	20 MB
+				smss.exe
+					Process ID	680
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	\SystemRoot\System32\smss.exe
+					Memory Usage	388 KB
+					Peak Memory Usage	480 KB
+				Speccy.exe
+					Process ID	2596
+					User	slu-soh
+					Domain	SOH-A1B82727D8B
+					Path	C:\Program Files\Speccy\Speccy.exe
+					Memory Usage	13 MB
+					Peak Memory Usage	14 MB
+				spoolsv.exe
+					Process ID	1628
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\WINDOWS\system32\spoolsv.exe
+					Memory Usage	8.28 MB
+					Peak Memory Usage	9.37 MB
+				svchost.exe
+					Process ID	1460
+					Path	C:\WINDOWS\system32\svchost.exe
+					Memory Usage	3.70 MB
+					Peak Memory Usage	3.71 MB
+				svchost.exe
+					Process ID	1388
+					Path	C:\WINDOWS\system32\svchost.exe
+					Memory Usage	2.98 MB
+					Peak Memory Usage	3.00 MB
+				svchost.exe
+					Process ID	1200
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\WINDOWS\system32\svchost.exe
+					Memory Usage	2.96 MB
+					Peak Memory Usage	2.99 MB
+				svchost.exe
+					Process ID	1160
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\WINDOWS\System32\svchost.exe
+					Memory Usage	31 MB
+					Peak Memory Usage	32 MB
+				svchost.exe
+					Process ID	1064
+					Path	C:\WINDOWS\system32\svchost.exe
+					Memory Usage	3.96 MB
+					Peak Memory Usage	3.96 MB
+				svchost.exe
+					Process ID	996
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\WINDOWS\system32\svchost.exe
+					Memory Usage	4.39 MB
+					Peak Memory Usage	4.44 MB
+				svchost.exe
+					Process ID	456
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\WINDOWS\system32\svchost.exe
+					Memory Usage	3.80 MB
+					Peak Memory Usage	3.91 MB
+				System
+					Process ID	4
+					Memory Usage	256 KB
+					Peak Memory Usage	6.38 MB
+				System Idle Process
+					Process ID	0
+				unsecapp.exe
+					Process ID	2528
+					User	slu-soh
+					Domain	SOH-A1B82727D8B
+					Path	C:\WINDOWS\system32\wbem\unsecapp.exe
+					Memory Usage	3.84 MB
+					Peak Memory Usage	3.88 MB
+				winlogon.exe
+					Process ID	760
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	\??\C:\WINDOWS\system32\winlogon.exe
+					Memory Usage	3.41 MB
+					Peak Memory Usage	13 MB
+				wmiprvse.exe
+					Process ID	2580
+					Path	C:\WINDOWS\system32\wbem\wmiprvse.exe
+					Memory Usage	11 MB
+					Peak Memory Usage	11 MB
+				wmiprvse.exe
+					Process ID	3588
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\WINDOWS\system32\wbem\wmiprvse.exe
+					Memory Usage	4.49 MB
+					Peak Memory Usage	4.54 MB
+				wuauclt.exe
+					Process ID	1136
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\WINDOWS\system32\wuauclt.exe
+					Memory Usage	6.44 MB
+					Peak Memory Usage	6.45 MB
+		Security Options
+			Accounts: Administrator account status	Enabled
+			Accounts: Guest account status	Disabled
+			Accounts: Limit local account use of blank passwords to console logon only	Enabled
+			Accounts: Rename administrator account	Administrator
+			Accounts: Rename guest account	Guest
+			Audit: Audit the access of global system objects	Disabled
+			Audit: Audit the use of Backup and Restore privilege	Disabled
+			Audit: Shut down system immediately if unable to log security audits	Disabled
+			DCOM: Machine Access Restrictions in Security Descriptor Definition Language (SDDL) syntax	Not defined
+			DCOM: Machine Launch Restrictions in Security Descriptor Definition Language (SDDL) syntax	Not defined
+			Devices: Allow undock without having to log on	Enabled
+			Devices: Allowed to format and eject removable media	Administrators
+			Devices: Prevent users from installing printer drivers	Disabled
+			Devices: Restrict CD-ROM access to locally logged-on user only	Disabled
+			Devices: Restrict floppy access to locally logged-on user only	Disabled
+			Devices: Unsigned driver installation behavior	Warn but allow installation
+			Domain controller: Allow server operators to schedule tasks	Not defined
+			Domain controller: LDAP server signing requirements	Not defined
+			Domain controller: Refuse machine account password changes	Not defined
+			Domain member: Digitally encrypt or sign secure channel data (always)	Enabled
+			Domain member: Digitally encrypt secure channel data (when possible)	Enabled
+			Domain member: Digitally sign secure channel data (when possible)	Enabled
+			Domain member: Disable machine account password changes	Disabled
+			Domain member: Maximum machine account password age	30 days
+			Domain member: Require strong (Windows 2000 or later) session key	Disabled
+			Interactive logon: Do not display last user name	Disabled
+			Interactive logon: Do not require CTRL+ALT+DEL	Not defined
+			Interactive logon: Message text for users attempting to log on
+			Interactive logon: Message title for users attempting to log on
+			Interactive logon: Number of previous logons to cache (in case domain controller is not available)	10 logons
+			Interactive logon: Prompt user to change password before expiration	14 days
+			Interactive logon: Require Domain Controller authentication to unlock workstation	Disabled
+			Interactive logon: Require smart card	Not defined
+			Interactive logon: Smart card removal behavior	No Action
+			Microsoft network client: Digitally sign communications (always)	Disabled
+			Microsoft network client: Digitally sign communications (if server agrees)	Enabled
+			Microsoft network client: Send unencrypted password to third-party SMB servers	Disabled
+			Microsoft network server: Amount of idle time required before suspending session	15 minutes
+			Microsoft network server: Digitally sign communications (always)	Disabled
+			Microsoft network server: Digitally sign communications (if client agrees)	Disabled
+			Microsoft network server: Disconnect clients when logon hours expire	Enabled
+			Network access: Do not allow anonymous enumeration of SAM accounts	Enabled
+			Network access: Do not allow anonymous enumeration of SAM accounts and shares	Disabled
+			Network access: Do not allow storage of credentials or .NET Passports for network authentication	Disabled
+			Network access: Let Everyone permissions apply to anonymous users	Disabled
+			Network access: Named Pipes that can be accessed anonymously	COMNAP,COMNODE,SQL\QUERY,SPOOLSS,LLSRPC,browser
+			Network access: Remotely accessible registry paths	System\CurrentControlSet\Control\ProductOptions,System\CurrentControlSet\Control\Print\Printers,System\CurrentControlSet\Control\Server Applications,System\CurrentControlSet\Services\Eventlog,Software\Microsoft\OLAP Server,Software\Microsoft\Windows NT\CurrentVersion,System\CurrentControlSet\Control\ContentIndex,System\CurrentControlSet\Control\Terminal Server,System\CurrentControlSet\Control\Terminal Server\UserConfig,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration
+			Network access: Shares that can be accessed anonymously	COMCFG,DFS$
+			Network access: Sharing and security model for local accounts	Guest only - local users authenticate as Guest
+			Network security: Do not store LAN Manager hash value on next password change	Disabled
+			Network security: Force logoff when logon hours expire	Disabled
+			Network security: LAN Manager authentication level	Send LM & NTLM responses
+			Network security: LDAP client signing requirements	Negotiate signing
+			Network security: Minimum session security for NTLM SSP based (including secure RPC) clients	No minimum
+			Network security: Minimum session security for NTLM SSP based (including secure RPC) servers	No minimum
+			Recovery console: Allow automatic administrative logon	Disabled
+			Recovery console: Allow floppy copy and access to all drives and all folders	Disabled
+			Shutdown: Allow system to be shut down without having to log on	Enabled
+			Shutdown: Clear virtual memory pagefile	Disabled
+			System cryptography: Use FIPS compliant algorithms for encryption, hashing, and signing	Disabled
+			System objects: Default owner for objects created by members of the Administrators group	Object creator
+			System objects: Require case insensitivity for non-Windows subsystems	Enabled
+			System objects: Strengthen default permissions of internal system objects (e.g. Symbolic Links)	Enabled
+		Device Tree
+				ACPI Multiprocessor PC
+						Microsoft ACPI-Compliant System
+							ACPI Fan
+							ACPI Fan
+							ACPI Fan
+							ACPI Fan
+							ACPI Fan
+							ACPI Fixed Feature Button
+							ACPI Power Button
+							ACPI Thermal Zone
+							ACPI Thermal Zone
+							Intel Pentium CPU G2010 @ 2.80GHz
+							Intel Pentium CPU G2010 @ 2.80GHz
+							System board
+								PCI bus
+									Intel 6 Series/C200 Series Chipset Family PCI Express Root Port 1 - 1C10
+									Intel 6 Series/C200 Series Chipset Family SMBus Controller - 1C22
+									Intel Management Engine Interface
+									Motherboard resources
+									System board
+									Xeon processor E3-1200 v2/3rd Gen Core processor DRAM Controller - 0150
+										Intel(R) HD Graphics
+											Plug and Play Monitor
+											Plug and Play Monitor
+										Intel(R) 6 Series/C200 Series Chipset Family USB Enhanced Host Controller - 1C2D
+												USB Root Hub
+														Generic USB Hub
+																USB Human Interface Device
+																	HID-compliant device
+																	HID-compliant mouse
+										Microsoft UAA Bus Driver for High Definition Audio
+											Realtek High Definition Audio
+										Intel(R) 6 Series/C200 Series Chipset Family PCI Express Root Port 5 - 1C18
+											Realtek PCIe GBE Family Controller
+										Intel(R) 6 Series/C200 Series Chipset Family USB Enhanced Host Controller - 1C26
+												USB Root Hub
+														Generic USB Hub
+																USB Mass Storage Device
+																		Disk drive
+																			Generic volume
+										Intel(R) H61 Express Chipset Family LPC Interface Controller - 1C5C
+											Communications Port (COM1)
+											Direct memory access controller
+											High precision event timer
+											Intel 82802 Firmware Hub Device
+											ISAPNP Read Data Port
+											Motherboard resources
+											Motherboard resources
+											Motherboard resources
+											Motherboard resources
+											Numeric data processor
+											Programmable interrupt controller
+											Standard 101/102-Key or Microsoft Natural PS/2 Keyboard
+											System CMOS/real time clock
+											System timer
+												Printer Port (LPT1)
+													Printer Port Logical Interface
+										Intel(R) 6 Series/C200 Series Chipset Family 4 port Serial ATA Storage Controller - 1C00
+												Primary IDE Channel
+													WDC WD5000AAKX-00ERMA0
+												Secondary IDE Channel
+													ATAPI iHAS122 W
+										Intel(R) 6 Series/C200 Series Chipset Family 2 port Serial ATA Storage Controller - 1C08
+											Primary IDE Channel
+											Secondary IDE Channel
+CPU
+		Intel Pentium G2010
+			Cores	2
+			Threads	2
+			Name	Intel Pentium G2010
+			Code Name	Ivy Bridge
+			Package	Socket 1155 LGA
+			Technology	22nm
+			Specification	Intel Pentium CPU G2010 @ 2.80GHz
+			Family	6
+			Extended Family	6
+			Model	A
+			Extended Model	3A
+			Stepping	9
+			Revision	L1
+			Instructions	MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, Intel 64, NX, VMX
+			Virtualization	Supported, Disabled
+			Hyperthreading	Not supported
+			Fan Speed	997 RPM
+			Stock Core Speed	2800 MHz
+			Stock Bus Speed	100 MHz
+			Average Temperature	30 °C
+				Caches
+					L1 Data Cache Size	2 x 32 KBytes
+					L1 Instructions Cache Size	2 x 32 KBytes
+					L2 Unified Cache Size	2 x 256 KBytes
+					L3 Unified Cache Size	3072 KBytes
+				Cores
+						Core 0
+							Core Speed	1596.2 MHz
+							Multiplier	x 16.0
+							Bus Speed	99.8 MHz
+							Temperature	31 °C
+							Threads	APIC ID: 0
+						Core 1
+							Core Speed	1596.2 MHz
+							Multiplier	x 16.0
+							Bus Speed	99.8 MHz
+							Temperature	28 °C
+							Threads	APIC ID: 2
+RAM
+		Memory slots
+			Total memory slots	2
+			Used memory slots	1
+			Free memory slots	1
+		Memory
+			Type	DDR3
+			Size	2048 MBytes
+			Channels #	Single
+			DRAM Frequency	665.1 MHz
+			CAS# Latency (CL)	9 clocks
+			RAS# to CAS# Delay (tRCD)	9 clocks
+			RAS# Precharge (tRP)	9 clocks
+			Cycle Time (tRAS)	24 clocks
+			Command Rate (CR)	1T
+		Physical Memory
+			Memory Usage	23 %
+			Total Physical	1.89 GB
+			Available Physical	1.44 GB
+			Total Virtual	3.74 GB
+			Available Virtual	3.32 GB
+		SPD
+			Number Of SPD Modules	1
+				Slot #1
+					Type	DDR3
+					Size	2048 MBytes
+					Manufacturer	Kingston
+					Max Bandwidth	PC3-10700 (667 MHz)
+					Part Number	99U5474-010.A00LF
+					Serial Number	1696033868
+					Week/year	11 / 13
+						Timing table
+								JEDEC #1
+									Frequency	457.1 MHz
+									CAS# Latency	6.0
+									RAS# To CAS#	6
+									RAS# Precharge	6
+									tRAS	17
+									tRC	23
+									Voltage	1.500 V
+								JEDEC #2
+									Frequency	533.3 MHz
+									CAS# Latency	7.0
+									RAS# To CAS#	7
+									RAS# Precharge	7
+									tRAS	20
+									tRC	27
+									Voltage	1.500 V
+								JEDEC #3
+									Frequency	609.5 MHz
+									CAS# Latency	8.0
+									RAS# To CAS#	8
+									RAS# Precharge	8
+									tRAS	22
+									tRC	30
+									Voltage	1.500 V
+								JEDEC #4
+									Frequency	666.7 MHz
+									CAS# Latency	9.0
+									RAS# To CAS#	9
+									RAS# Precharge	9
+									tRAS	24
+									tRC	33
+									Voltage	1.500 V
+Motherboard
+	Manufacturer	Gigabyte Technology Co. Ltd.
+	Model	H61M-DS2 4.0 (Intel Pentium CPU G2010 @ 2.80GHz)
+	Version	x.x
+	Chipset Vendor	Intel
+	Chipset Model	Ivy Bridge
+	Chipset Revision	09
+	Southbridge Vendor	Intel
+	Southbridge Model	H61
+	Southbridge Revision	B3
+	System Temperature	28 °C
+		BIOS
+			Brand	American Megatrends Inc.
+			Version	F2
+			Date	8/30/2013
+		Voltage
+			CPU CORE	0.936 V
+			MEMORY CONTROLLER	2.232 V
+			VIN2	2.040 V
+			VIN3	2.052 V
+			VIN4	2.232 V
+			VIN5	1.068 V
+			VIN6	1.500 V
+			VIN7	1.692 V
+		PCI Data
+				Slot PCI-E
+					Slot Type	PCI-E
+					Slot Usage	In Use
+					Data lanes	x16
+					Slot Designation	J6B2
+					Characteristics	3.3V, Shared, PME
+					Slot Number	0
+				Slot PCI-E
+					Slot Type	PCI-E
+					Slot Usage	In Use
+					Data lanes	x1
+					Slot Designation	J6B1
+					Characteristics	3.3V, Shared, PME
+					Slot Number	1
+				Slot PCI-E
+					Slot Type	PCI-E
+					Slot Usage	In Use
+					Data lanes	x8
+					Slot Designation	J6D1
+					Characteristics	3.3V, Shared, PME
+					Slot Number	2
+				Slot PCI-E
+					Slot Type	PCI-E
+					Slot Usage	In Use
+					Data lanes	x16
+					Slot Designation	J7B1
+					Characteristics	3.3V, Shared, PME
+					Slot Number	3
+				Slot PCI-E
+					Slot Type	PCI-E
+					Slot Usage	In Use
+					Data lanes	x1
+					Slot Designation	J8B4
+					Characteristics	3.3V, Shared, PME
+					Slot Number	4
+				Slot PCI
+					Slot Type	PCI
+					Slot Usage	In Use
+					Bus Width	32 bit
+					Slot Designation	J8B3
+					Characteristics	3.3V, Shared, PME
+					Slot Number	5
+Graphics
+		Monitor 1
+			Name	ASUS VH162 on Intel HD Graphics
+			Current Resolution	1366x768 pixels
+			Work Resolution	1366x734 pixels
+			State	Disabled, Output devices support
+			Multiple displays	Disabled
+			Monitor Width	1366
+			Monitor Height	768
+			Monitor BPP	32 bits per pixel
+			Monitor Frequency	59 Hz
+			Device	\\.\DISPLAY1\Monitor0
+		Monitor 2
+			Name	ASUS VH162 on Intel HD Graphics
+			Current Resolution	1366x768 pixels
+			Work Resolution	1366x734 pixels
+			State	Enabled, Output devices support
+			Multiple displays	Enabled
+			Monitor Width	1366
+			Monitor Height	768
+			Monitor BPP	32 bits per pixel
+			Monitor Frequency	59 Hz
+			Device	\\.\DISPLAY1\Monitor1
+		Intel HD Graphics
+			Manufacturer	Intel
+			Model	HD Graphics
+			Device ID	8086-0152
+			Revision	A
+			Subvendor	Gigabyte (1458)
+			Current Performance Level	Level 0
+			Driver version	6.14.10.5398
+				Count of performance levels : 1
+					Level 1 - "Perf Level 0"
+Storage
+		Hard drives
+				WDC WD5000AAKX-00ERMA0
+					Manufacturer	Western Digital
+					Form Factor	GB/3.5-inch
+					Business Unit/Brand	Desktop/WD Caviar
+					Heads	16
+					Cylinders	60,801
+					Tracks	15,504,255
+					Sectors	976,768,065
+					SATA type	SATA-III 6.0Gb/s
+					Device type	Fixed
+					ATA Standard	ATA8-ACS
+					Serial Number	WD-WCC2ECF25876
+					Firmware Version Number	15.01H15
+					LBA Size	48-bit LBA
+					Power On Count	1419 times
+					Power On Time	193.0 days
+					Features	S.M.A.R.T., NCQ
+					Max. Transfer Mode	SATA III 6.0Gb/s
+					Used Transfer Mode	SATA II 3.0Gb/s
+					Interface	SATA
+					Capacity	465 GB
+					Real size	500,107,862,016 bytes
+					RAID Type	None
+						S.M.A.R.T
+							Status	Good
+							Temperature	30 °C
+							Temperature Range	OK (less than 50 °C)
+								S.M.A.R.T attributes
+										01
+											Attribute name	Read Error Rate
+											Real value	0
+											Current	200
+											Worst	200
+											Threshold	51
+											Raw Value	00000000D9
+											Status	Good
+										03
+											Attribute name	Spin-Up Time
+											Real value	3900 ms
+											Current	142
+											Worst	140
+											Threshold	21
+											Raw Value	0000000F3C
+											Status	Good
+										04
+											Attribute name	Start/Stop Count
+											Real value	1,426
+											Current	99
+											Worst	99
+											Threshold	0
+											Raw Value	0000000592
+											Status	Good
+										05
+											Attribute name	Reallocated Sectors Count
+											Real value	0
+											Current	200
+											Worst	200
+											Threshold	140
+											Raw Value	0000000000
+											Status	Good
+										07
+											Attribute name	Seek Error Rate
+											Real value	0
+											Current	200
+											Worst	200
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+										09
+											Attribute name	Power-On Hours (POH)
+											Real value	193d 0h
+											Current	94
+											Worst	94
+											Threshold	0
+											Raw Value	0000001218
+											Status	Good
+										0A
+											Attribute name	Spin Retry Count
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+										0B
+											Attribute name	Recalibration Retries
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+										0C
+											Attribute name	Device Power Cycle Count
+											Real value	1,419
+											Current	99
+											Worst	99
+											Threshold	0
+											Raw Value	000000058B
+											Status	Good
+										C0
+											Attribute name	Power-off Retract Count
+											Real value	242
+											Current	200
+											Worst	200
+											Threshold	0
+											Raw Value	00000000F2
+											Status	Good
+										C1
+											Attribute name	Load/Unload Cycle Count
+											Real value	1,183
+											Current	200
+											Worst	200
+											Threshold	0
+											Raw Value	000000049F
+											Status	Good
+										C2
+											Attribute name	Temperature
+											Real value	30 °C
+											Current	113
+											Worst	100
+											Threshold	0
+											Raw Value	000000001E
+											Status	Good
+										C4
+											Attribute name	Reallocation Event Count
+											Real value	0
+											Current	200
+											Worst	200
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+										C5
+											Attribute name	Current Pending Sector Count
+											Real value	1
+											Current	200
+											Worst	200
+											Threshold	0
+											Raw Value	0000000001
+											Status	Good
+										C6
+											Attribute name	Uncorrectable Sector Count
+											Real value	0
+											Current	200
+											Worst	200
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+										C7
+											Attribute name	UltraDMA CRC Error Count
+											Real value	0
+											Current	200
+											Worst	200
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+										C8
+											Attribute name	Write Error Rate / Multi-Zone Error Rate
+											Real value	0
+											Current	200
+											Worst	200
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+						Partition 0
+							Partition ID	Disk #0, Partition #0
+							Disk Letter	C:
+							File System	NTFS
+							Volume Serial Number	4454B999
+							Size	195 GB
+							Used Space	17.3 GB (8%)
+							Free Space	177 GB (92%)
+						Partition 1
+							Partition ID	Disk #0, Partition #1
+							Disk Letter	D:
+							File System	NTFS
+							Volume Serial Number	8823561B
+							Size	270 GB
+							Used Space	450 MB (0%)
+							Free Space	270 GB (100%)
+		Flash drives
+				Disk drive
+					Interface	USB
+					Capacity	3.74 GB
+					Real size	4,013,948,928 bytes
+					RAID Type	None
+						S.M.A.R.T
+							S.M.A.R.T not supported
+						Partition 0
+							Partition ID	Disk #1, Partition #0
+							Disk Letter	F:
+							File System	NTFS
+							Volume Serial Number	089D5A64
+							Size	3.74 GB
+							Used Space	1.4 GB (37%)
+							Free Space	2.34 GB (63%)
+Optical Drives
+		ATAPI iHAS122   W
+			Media Type	DVD Writer
+			Name	ATAPI iHAS122 W
+			Availability	Running/Full Power
+			Capabilities	Random Access, Supports Removable Media
+			Read capabilities	CD-R, CD-RW, CD-ROM, DVD-RAM, DVD-ROM, DVD-R, DVD-RW, DVD+R, DVD+RW, DVD-R DL, DVD+R DL
+			Write capabilities	CD-R, CD-RW, DVD-RAM, DVD-R, DVD-RW, DVD+R, DVD+RW, DVD-R DL, DVD+R DL
+			Config Manager Error Code	Device is working properly
+			Config Manager User Config	FALSE
+			Drive	E:
+			Media Loaded	FALSE
+			SCSI Bus	0
+			SCSI Logical Unit	0
+			SCSI Port	1
+			SCSI Target Id	0
+			Status	OK
+Audio
+		Sound Card
+			Realtek High Definition Audio
+		Playback Device
+			Realtek HD Audio Input
+		Recording Device
+			Realtek HD Audio output
+Peripherals
+		Standard 101/102-Key or Microsoft Natural PS/2 Keyboard
+			Device Kind	Keyboard
+			Device Name	Standard 101/102-Key or Microsoft Natural PS/2 Keyboard
+			Vendor	(Standard keyboards)
+			Location	plugged into keyboard port
+				Driver
+					Date	7-1-2001
+					Version	5.1.2600.2180
+					File	C:\WINDOWS\system32\DRIVERS\i8042prt.sys
+					File	C:\WINDOWS\system32\DRIVERS\kbdclass.sys
+		HID-compliant mouse
+			Device Kind	Mouse
+			Device Name	HID-compliant mouse
+			Vendor	A4 Tech Co Ltd
+			Location	Location 0
+				Driver
+					Date	7-1-2001
+					Version	5.1.2600.0
+					File	C:\WINDOWS\system32\DRIVERS\mouclass.sys
+					File	C:\WINDOWS\system32\DRIVERS\mouhid.sys
+		Printers
+				AGFA-AccuSet v52.3
+					Printer Port	LPT1:
+					Print Processor	WinPrint
+					Availability	Always
+					Priority	1
+					Duplex	None
+					Print Quality	1200 * 1200 dpi Monochrome
+					Status	Unknown
+						Driver
+							Driver Name	AGFA-AccuSet v52.3 (v5.02)
+							Driver Path	C:\WINDOWS\System32\spool\DRIVERS\W32X86\3\PSCRIPT5.DLL
+				AGFA-AccuSet v52.3 (Copy 1)
+					Printer Port	LPT1:
+					Print Processor	WinPrint
+					Availability	Always
+					Priority	1
+					Duplex	None
+					Print Quality	1200 * 1200 dpi Monochrome
+					Status	Unknown
+						Driver
+							Driver Name	AGFA-AccuSet v52.3 (v5.02)
+							Driver Path	C:\WINDOWS\System32\spool\DRIVERS\W32X86\3\PSCRIPT5.DLL
+				Auto EPSON FX-2175 ESC/P on WWW-PTU-COM
+					Printer Port	\\WWW-PTU-COM\EPSONFX-2175
+					Print Processor	WinPrint
+					Availability	Always
+					Priority	1
+					Duplex	None
+					Print Quality	120 * 72 dpi Monochrome
+					Status	Unknown
+						Driver
+							Driver Name	EPSON FX-2175 ESC/P (v5.00)
+							Driver Path	C:\WINDOWS\System32\spool\DRIVERS\W32X86\3\UNIDRV.DLL
+				Auto EPSON L110 Series (Copy 1) on WWW-PTU-COM
+					Printer Port	\\WWW-PTU-COM\Printer
+					Print Processor	WinPrint
+					Availability	Always
+					Priority	1
+					Duplex	None
+					Print Quality	360 * 360 dpi Color
+					Status	Unknown
+						Driver
+							Driver Name	EPSON L110 Series (v1.50)
+							Driver Path	C:\WINDOWS\System32\spool\DRIVERS\W32X86\3\E_TMAII3E.DLL
+				Auto EPSON L110 Series on PTU4
+					Printer Port	\\PTU4\EPSONL110
+					Print Processor	WinPrint
+					Availability	Always
+					Priority	1
+					Duplex	None
+					Print Quality	360 * 360 dpi Color
+					Status	Unknown
+						Driver
+							Driver Name	EPSON L110 Series (v1.50)
+							Driver Path	C:\WINDOWS\System32\spool\DRIVERS\W32X86\3\E_TMAII3E.DLL
+				Auto EPSON L110 Series on WWW-PTU-COM
+					Printer Port	\\WWW-PTU-COM\Printer2
+					Print Processor	WinPrint
+					Availability	Always
+					Priority	1
+					Duplex	None
+					Print Quality	360 * 360 dpi Color
+					Status	Unknown
+						Driver
+							Driver Name	EPSON L110 Series (v1.50)
+							Driver Path	C:\WINDOWS\System32\spool\DRIVERS\W32X86\3\E_TMAII3E.DLL
+				EPSON FX-2175 ESC/P
+					Printer Port	USB002
+					Print Processor	WinPrint
+					Availability	Always
+					Priority	1
+					Duplex	None
+					Print Quality	120 * 72 dpi Monochrome
+					Status	Unknown
+						Driver
+							Driver Name	EPSON FX-2175 ESC/P (v5.00)
+							Driver Path	C:\WINDOWS\System32\spool\DRIVERS\W32X86\3\UNIDRV.DLL
+				EPSON L110 Series (Default Printer)
+					Printer Port	USB004
+					Print Processor	WinPrint
+					Availability	Always
+					Priority	1
+					Duplex	None
+					Print Quality	360 * 360 dpi Color
+					Status	Unknown
+						Driver
+							Driver Name	EPSON L110 Series (v1.50)
+							Driver Path	C:\WINDOWS\System32\spool\DRIVERS\W32X86\3\E_TMAII3E.DLL
+				HP LaserJet P1505n
+					Printer Port	USB003
+					Print Processor	HP1006S
+					Availability	Always
+					Priority	1
+					Duplex	None
+					Print Quality	600 * 600 dpi Monochrome
+					Status	Unknown
+						Driver
+							Driver Name	HP LaserJet P1505n (v1.05)
+							Driver Path	C:\WINDOWS\System32\spool\DRIVERS\W32X86\3\HP1006K.DLL
+				Send To OneNote 2007
+					Printer Port	Send To Microsoft OneNote Port:
+					Print Processor	OneNotePrint2007
+					Availability	Always
+					Priority	1
+					Duplex	None
+					Print Quality	300 * 300 dpi Color
+					Status	Unknown
+						Driver
+							Driver Name	Send To Microsoft OneNote Driver (v4.00)
+							Driver Path	C:\WINDOWS\System32\spool\DRIVERS\W32X86\3\msonpdrv.dll
+Network
+	You are connected to the internet
+	Connected through	Realtek PCIe GBE Family Controller - Packet Scheduler Miniport
+	IP Address	10.10.26.127
+	Subnet mask	255.255.255.0
+	Gateway server	10.10.26.254
+	Preferred DNS server	10.10.26.254
+	DHCP	Enabled
+	DHCP server	10.10.26.254
+	External IP Address	Cannot get valid external IP
+	Adapter Type	Ethernet
+	NetBIOS over TCP/IP	Enabled via DHCP
+	NETBIOS Node Type	Mixed node
+	Link Speed	0 Bps
+		Computer Name
+			NetBIOS Name	SOH-A1B82727D8B
+			DNS Name	soh-a1b82727d8b
+			Membership	Part of workgroup
+			Workgroup	WORKGROUP
+		Remote Desktop
+			Disabled
+				Console
+					State	Active
+					Domain	SOH-A1B82727D8B
+		WinInet Info
+			LAN Connection
+			Local system uses a local area network to connect to the Internet
+			Local system has RAS to connect to the Internet
+		Wi-Fi Info
+			Wi-Fi not present
+		WinHTTPInfo
+			WinHTTPSessionProxyType	No proxy
+			Session Proxy
+			Session Proxy Bypass
+			Connect Retries	5
+			Connect Timeout (ms)	60,000
+			HTTP Version	HTTP 1.1
+			Max Connects Per 1.0 Servers	INFINITE
+			Max Connects Per Servers	INFINITE
+			Max HTTP automatic redirects	10
+			Max HTTP status continue	10
+			Send Timeout (ms)	30,000
+			IEProxy Auto Detect	Yes
+			IEProxy Auto Config
+			IEProxy
+			IEProxy Bypass
+			Default Proxy Config Access Type	No proxy
+			Default Config Proxy
+			Default Config Proxy Bypass
+		Sharing and Discovery
+			File and printer sharing service	Enabled
+			Simple File Sharing	Enabled
+			Administrative Shares	Enabled
+			Network access: Sharing and security model for local accounts	Guest only - local users authenticate as Guest
+		Adapters List
+				Enabled
+						Realtek PCIe GBE Family Controller - Packet Scheduler Miniport
+							Connection-specific DNS Suffix	slu.edu.ph
+							Connection Name	Local Area Connection
+							NetBIOS over TCPIP	No
+							DHCP enabled	Yes
+							MAC Address	74-D4-35-C3-53-01
+							IP Address	10.10.26.127
+							Subnet mask	255.255.255.0
+							Gateway server	10.10.26.254
+							DHCP	10.10.26.254
+							DNS Server	10.10.26.254
+		Network Shares
+			No network shares
+		Current TCP Connections
+				C:\Program Files\AVAST Software\Avast\AvastSvc.exe (1520)
+					Local 10.10.26.127:1514	SYN-SENT Remote 5.45.59.35:443 (Querying... ) (HTTPS)
+					Local 10.10.26.127:1515	SYN-SENT Remote 5.45.59.36:443 (Querying... ) (HTTPS)
+					Local 10.10.26.127:1516	SYN-SENT Remote 5.45.59.35:443 (Querying... ) (HTTPS)
+					Local 10.10.26.127:1517	SYN-SENT Remote 5.45.59.36:443 (Querying... ) (HTTPS)
+					Local 127.0.0.1:12025	LISTEN
+					Local 127.0.0.1:12110	LISTEN
+					Local 127.0.0.1:12119	LISTEN
+					Local 127.0.0.1:12143	LISTEN
+					Local 127.0.0.1:27275	LISTEN
+				C:\WINDOWS\System32\alg.exe (3500)
+					Local 127.0.0.1:1132	LISTEN
+				C:\WINDOWS\System32\svchost.exe (1160)
+					Local 10.10.26.127:1345	CLOSE-WAIT Remote 10.10.26.254:8004 (Querying... )
+				svchost.exe (1064)
+					Local 0.0.0.0:135 (DCE)	LISTEN
+				System Process
+					Local 10.10.26.127:1478	TIME-WAIT Remote 151.101.2.202:80 (Querying... ) (HTTP)
+					Local 10.10.26.127:1480	TIME-WAIT Remote 188.121.41.51:80 (Querying... ) (HTTP)
+					Local 10.10.26.127:1482	TIME-WAIT Remote 5.45.58.252:80 (Querying... ) (HTTP)
+					Local 10.10.26.127:1483	TIME-WAIT Remote 5.45.58.252:80 (Querying... ) (HTTP)
+					Local 10.10.26.127:1484	TIME-WAIT Remote 5.45.58.252:80 (Querying... ) (HTTP)
+					Local 10.10.26.127:1485	TIME-WAIT Remote 5.45.58.252:80 (Querying... ) (HTTP)
+					Local 10.10.26.127:1486	TIME-WAIT Remote 5.45.58.252:80 (Querying... ) (HTTP)
+					Local 10.10.26.127:1488	TIME-WAIT Remote 5.45.58.252:80 (Querying... ) (HTTP)
+					Local 10.10.26.127:1489	TIME-WAIT Remote 5.45.58.252:80 (Querying... ) (HTTP)
+					Local 10.10.26.127:1490	TIME-WAIT Remote 5.45.58.252:80 (Querying... ) (HTTP)
+					Local 10.10.26.127:1491	TIME-WAIT Remote 5.45.58.252:80 (Querying... ) (HTTP)
+					Local 10.10.26.127:1492	TIME-WAIT Remote 5.45.58.252:80 (Querying... ) (HTTP)
+					Local 10.10.26.127:1497	TIME-WAIT Remote 77.234.45.54:80 (Querying... ) (HTTP)
+					Local 10.10.26.127:1498	TIME-WAIT Remote 77.234.45.54:80 (Querying... ) (HTTP)
+				System Process
+					Local 0.0.0.0:445 (Windows shares)	LISTEN
+					Local 10.10.26.127:139 (NetBIOS session service)	LISTEN
+Generated with Speccy v1.32.740
+
+printer: Epson L110
+mac_address: 74-D4-35-C3-53-01
